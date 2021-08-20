@@ -6,7 +6,7 @@
 
 ##
 <div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
 </div>
 
 ##
