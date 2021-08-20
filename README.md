@@ -7,7 +7,8 @@
 ##
 <div>
   <img align="center" alt="Rafael-JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafael-CSharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Rafael-CSharp" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafael-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
 ##
